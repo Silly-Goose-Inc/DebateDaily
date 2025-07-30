@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debate-Daily</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Debate-Daily</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jul 2025 18:00:20 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Even Is a &#34;Small School&#34; Anyway?</title>
+      <link>http://localhost:1313/posts/what-even-is-a-smallschool/</link>
+      <pubDate>Wed, 30 Jul 2025 18:00:20 -0400</pubDate>
+      <guid>http://localhost:1313/posts/what-even-is-a-smallschool/</guid>
+      <description>&lt;p&gt;When you hear “small school” in debate, what do you picture? A team with just a handful of members struggling to keep the program alive? A solo competitor who carries the entire school on their back? Or maybe a hidden gem quietly out-debating much larger programs? The truth is, there’s no single, clear-cut definition of what makes a school “small.” It varies depending on your circuit, your region, and the people you ask.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Round You Lost B4 The 1AC</title>
+      <link>http://localhost:1313/posts/theroundyoulostb4the1ac/</link>
+      <pubDate>Wed, 30 Jul 2025 17:41:39 -0400</pubDate>
+      <guid>http://localhost:1313/posts/theroundyoulostb4the1ac/</guid>
+      <description>&lt;p&gt;In debate, we tend to fixate on speeches. The 1AC that was fire. The 2NR that collapsed. The 1AR that scrambled. When we analyze losses, we almost always go to what was said &lt;em&gt;in-round&lt;/em&gt; — what went wrong, what we could’ve said better, how we dropped something major. That’s fair. But sometimes, the truth is simpler:&lt;/p&gt;&#xA;&lt;p&gt;You lost the round &lt;strong&gt;before the 1AC was even read.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What even is DebateDaily</title>
+      <link>http://localhost:1313/posts/what-is-dd/</link>
+      <pubDate>Wed, 30 Jul 2025 16:21:41 -0400</pubDate>
+      <guid>http://localhost:1313/posts/what-is-dd/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Debate Daily&lt;/em&gt; is a project I’ve been working on with a long-term goal in mind: building a structured, useful space for competitive debaters, coaches, and teams — one that combines tools, commentary, and systems under one roof.&lt;/p&gt;&#xA;&lt;p&gt;It’s a multi-part site, developed slowly and deliberately, with an emphasis on clarity, community use, and long-term utility. It’s being coded by hand — line by line — not generated or stitched together by AI. The goal is to make something you’d actually want to use across a full season, not just browse once and forget.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

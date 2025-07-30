@@ -1,0 +1,56 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Debate-Daily'
+theme = 'mainroad'
+
+# Needed To create the tags themselves 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Needed to avoid raw HTML printing and missing sidebar rendering
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+hasCJKLanguage = false
+enableRobotsTXT = true
+summaryLength = 30
+
+[params]
+  description = "An OS platform for exploring, sharing, and improving debate as a game."
+  author = "Debate-Daily Team"
+  customCSS = ["css/custom.css"] # Optional: If you want to customize styles
+
+  # Display site-wide social links
+  showSocial = true
+  showReadingTime = true
+  showTags = true
+  showBreadcrumbs = true
+  showFooterCredits = true
+  highlightColor = "#0080ff"
+
+[Params.logo]
+  title = "Debate-Daily"
+  subtitle = "Debate Better - Be Better - Daily."
+
+# Optional: Main menu if you want a header nav bar
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Contact: Email"
+    url = "mailto:RobersonDebate@gmail.com"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+
+[[menu.main]]
+  name = "Blog: 3NR Revamp Series"
+  url = "/tags/3NR-Revamps/"
+  weight = 5

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Debate-Daily</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Debate-Daily</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jul 2025 17:41:39 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginner Advice</title>
+      <link>http://localhost:1313/tags/beginner-advice/</link>
+      <pubDate>Wed, 30 Jul 2025 17:41:39 -0400</pubDate>
+      <guid>http://localhost:1313/tags/beginner-advice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flowing Skills</title>
+      <link>http://localhost:1313/tags/flowing-skills/</link>
+      <pubDate>Wed, 30 Jul 2025 17:41:39 -0400</pubDate>
+      <guid>http://localhost:1313/tags/flowing-skills/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Judge Adaptation</title>
+      <link>http://localhost:1313/tags/judge-adaptation/</link>
+      <pubDate>Wed, 30 Jul 2025 17:41:39 -0400</pubDate>
+      <guid>http://localhost:1313/tags/judge-adaptation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Game</title>
+      <link>http://localhost:1313/tags/mental-game/</link>
+      <pubDate>Wed, 30 Jul 2025 17:41:39 -0400</pubDate>
+      <guid>http://localhost:1313/tags/mental-game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pre-Round Strategy</title>
+      <link>http://localhost:1313/tags/pre-round-strategy/</link>
+      <pubDate>Wed, 30 Jul 2025 17:41:39 -0400</pubDate>
+      <guid>http://localhost:1313/tags/pre-round-strategy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Round Preparation</title>
+      <link>http://localhost:1313/tags/round-preparation/</link>
+      <pubDate>Wed, 30 Jul 2025 17:41:39 -0400</pubDate>
+      <guid>http://localhost:1313/tags/round-preparation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/tags/skills/</link>
+      <pubDate>Wed, 30 Jul 2025 17:41:39 -0400</pubDate>
+      <guid>http://localhost:1313/tags/skills/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech-Tips</title>
+      <link>http://localhost:1313/tags/tech-tips/</link>
+      <pubDate>Wed, 30 Jul 2025 17:41:39 -0400</pubDate>
+      <guid>http://localhost:1313/tags/tech-tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Varsity Strategy</title>
+      <link>http://localhost:1313/tags/varsity-strategy/</link>
+      <pubDate>Wed, 30 Jul 2025 17:41:39 -0400</pubDate>
+      <guid>http://localhost:1313/tags/varsity-strategy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Winning Margins</title>
+      <link>http://localhost:1313/tags/winning-margins/</link>
+      <pubDate>Wed, 30 Jul 2025 17:41:39 -0400</pubDate>
+      <guid>http://localhost:1313/tags/winning-margins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Start Here</title>
+      <link>http://localhost:1313/tags/start-here/</link>
+      <pubDate>Wed, 30 Jul 2025 16:21:41 -0400</pubDate>
+      <guid>http://localhost:1313/tags/start-here/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
