@@ -20,6 +20,10 @@ summaryLength = 30
   author = "Debate-Daily Team"
   customCSS = ["css/custom.css"] # Optional: If you want to customize styles
 
+[Params.logo]
+  title = "DebateDaily" # Logo title, otherwise will use site title
+  subtitle = "The Home Of Better Debate" # Logo subtitle
+
   # Display site-wide social links
   showSocial = true
   showReadingTime = true
@@ -27,10 +31,6 @@ summaryLength = 30
   showBreadcrumbs = true
   showFooterCredits = true
   highlightColor = "#0080ff"
-
-[Params.logo]
-  title = "Debate-Daily"
-  subtitle = "Debate Better - Be Better - Daily."
 
 # Optional: Main menu if you want a header nav bar
 [menu]
