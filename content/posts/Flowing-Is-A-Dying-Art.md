@@ -10,6 +10,8 @@ They may jot a few things down, (maybe) scribble some tags or click through tabs
 
 It’s not happening. And that’s a problem.
 
+<!--more-->
+
 
 ## 1st: What Even *Is* Flowing?
 
