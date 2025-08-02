@@ -42,7 +42,7 @@ summaryLength = 30
 
   [[menu.main]]
     name = "Contact: Email"
-    url = "mailto:RobersonDebate@gmail.com"
+    url = "mailto:DebateDaily.App@gmail.com"
     weight = 2
 
   [[menu.main]]
