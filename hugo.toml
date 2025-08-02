@@ -36,21 +36,47 @@ summaryLength = 30
 [menu]
 
   [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
     name = "Contact: Email"
     url = "mailto:DebateDaily.App@gmail.com"
-    weight = 2
+    weight = 1
 
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
+    weight = 2
+
+   [[menu.main]]
+    name = "Blog: 3NR Revamp Series"
+    url = "/tags/3NR-Revamps/"
     weight = 3
 
-[[menu.main]]
-  name = "Blog: 3NR Revamp Series"
-  url = "/tags/3NR-Revamps/"
-  weight = 5
+  [[menu.main]]
+    name = "Tools"
+    url = "#"
+    weight = 4
+    identifier = "tools"
+    hasChildren = true
+
+    [[menu.main]]
+      parent = "tools"
+      name = "Debate Tracker (BETA .87)"
+      url = "/tools/debate-tracker"
+      weight = 5
+
+    [[menu.main]]
+      parent = "tools"
+      name = "DDQ (Daily Debate Question)"
+      url = "/tools/ddq"
+      weight = 6
+
+    [[menu.main]]
+      parent = "tools"
+      name = "Round Timer (COMING SOON)"
+      url = "/tools/timer"
+      weight = 7
+
+    [[menu.main]]
+      parent = "tools"
+      name = "Judge Paradigm Helper (COMING SOON)"
+      url = "/tools/judge-helper"
+      weight = 8
