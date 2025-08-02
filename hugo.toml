@@ -52,7 +52,7 @@ summaryLength = 30
 
   [[menu.main]]
     name = "Tools"
-    url = "#"
+    url = "/tools/"
     weight = 4
     identifier = "tools"
     hasChildren = true

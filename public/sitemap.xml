@@ -3,12 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-30T18:00:20-04:00</lastmod>
+    <lastmod>2025-08-01T22:43:47-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-08-01T22:43:47-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tools/debate-tracker/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tools/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/4---8.1.25---flowing-is-a-dying-art/</loc>
+    <lastmod>2025-07-31T09:56:46-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/above-the-game/</loc>
     <lastmod>2025-07-30T18:00:20-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/what-even-is-a-smallschool/</loc>
+    <loc>http://localhost:1313/tags/small-school-adaptation/</loc>
+    <lastmod>2025-07-30T18:00:20-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-30T18:00:20-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/3---8.1.25---what-is-a-smallschool/</loc>
     <lastmod>2025-07-30T18:00:20-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/beginner-advice/</loc>
@@ -26,32 +44,26 @@
     <loc>http://localhost:1313/tags/pre-round-strategy/</loc>
     <lastmod>2025-07-30T17:41:39-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/round-preparation/</loc>
-    <lastmod>2025-07-30T17:41:39-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/skills/</loc>
-    <lastmod>2025-07-30T17:41:39-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-07-30T17:41:39-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tech-tips/</loc>
     <lastmod>2025-07-30T17:41:39-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/theroundyoulostb4the1ac/</loc>
-    <lastmod>2025-07-30T17:41:39-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/varsity-strategy/</loc>
-    <lastmod>2025-07-30T17:41:39-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/winning-margins/</loc>
+    <loc>http://localhost:1313/posts/2---8.1.25---theroundyoulostb4the1ac/</loc>
     <lastmod>2025-07-30T17:41:39-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/start-here/</loc>
     <lastmod>2025-07-30T16:21:41-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/what-is-dd/</loc>
+    <loc>http://localhost:1313/posts/1---8.1.25---what-is-dd/</loc>
     <lastmod>2025-07-30T16:21:41-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tools/ddq/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tools/judge-helper/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tools/timer/</loc>
   </url><url>
     <loc>http://localhost:1313/30/</loc>
   </url><url>

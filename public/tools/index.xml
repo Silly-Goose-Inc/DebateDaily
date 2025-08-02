@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Debate-Daily</title>
+    <link>http://localhost:1313/tools/</link>
+    <description>Recent content in Tools on Debate-Daily</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Db8 Timer</title>
+      <link>http://localhost:1313/tools/timer/</link>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/timer/</guid>
+      <description>&lt;p&gt;An ALL-IN-ONE Debate focused timer for all events!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Debate Tracker</title>
+      <link>http://localhost:1313/tools/debate-tracker/</link>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/debate-tracker/</guid>
+      <description>&lt;p&gt;Welcome to the Debate Tracker tool! Track bids, rounds, NSDA points, and more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Judge ID-er</title>
+      <link>http://localhost:1313/tools/judge-helper/</link>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/judge-helper/</guid>
+      <description>&lt;p&gt;An updated philosophy tool - Parsing the existing taproom and forensics judging philosophies to make an all in one stop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The DDQ</title>
+      <link>http://localhost:1313/tools/ddq/</link>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/ddq/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The &lt;strong&gt;DDQ&lt;/strong&gt; gives debaters a new, thought-provoking question every day to write, reflect, or spar over.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
