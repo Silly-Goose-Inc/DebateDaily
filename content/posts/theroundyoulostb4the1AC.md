@@ -19,7 +19,7 @@ Yes, this is basic — but how many rounds have been lost because someone couldn
 **Pro move:**  
 - Keep your doc library clean.  
 - Make your round file *before* the tournament starts.  
-- Always title your docs clearly: `"TOPIC - Round vs [Team] - Aff"` not `"Untitled document (7)"`.
+- Always title your docs clearly. - For example, I use: `"[Speech]-[Tournament]-[Round]-[Side] VS [team]"` not `"Untitled document (7)"`.
 
 Being fast and organized isn’t about aesthetics — it buys you seconds of calm in a round where most people panic.
 

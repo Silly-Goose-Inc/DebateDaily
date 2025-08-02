@@ -1,6 +1,6 @@
 +++
 date = '2025-07-31T09:56:46-04:00'
-draft = true
+draft = false
 title = 'Flowing Is a Dying Art'
 +++
 
