@@ -51,4 +51,4 @@ For many debaters, small schools offer a unique environment to grow as thinkers,
 
 ## Final Thoughts
 
-If you’re part of a small school team or coach one, remember this: your impact isn’t measured by how many people you bring to tournaments, but by how well you prepare, support, and compete. Keep pushing boundaries, building connections, and sharpening your skills. Your size might be small—but your potential is huge.
+If you’re part of a small school team or coach one, remember this: your impact isn’t measured by how many people you bring to tournaments, but by how well you prepare, support, and compete. Keep pushing boundaries, building connections, and sharpening your skills. Your size might be small - but your potential is huge.

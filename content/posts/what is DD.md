@@ -46,7 +46,7 @@ All updates here will be written and reviewed by hand — no AI-generated recaps
 
 ---
 
-## 🧭 The Philosophy
+## The Philosophy
 
 This site is being built slowly - and intentionally — around a few core values:
 
