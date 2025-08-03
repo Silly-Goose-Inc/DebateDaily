@@ -1,14 +1,13 @@
 +++
 date = '2025-07-31T17:11:47-04:00'
-draft = true
-title = 'Postrounding'
+draft = false
+title = 'Post-Round-ing'
 +++
+*By: Fisher Armstrong* | 8.3.25
 
 Something’s changed in debate — and not for the better.
 
 Rounds end, ballots are submitted, and people just... leave. No questions. No reflection. No real conversation.
-
-It didn’t always used to be like this.
 
 ## What We Used to Have
 
@@ -62,4 +61,4 @@ Talk to your opponent. Ask your judge. Stick around for five minutes. That’s h
 
 ---
 
-*Want to share a story of a great post-round? We’re collecting them for a follow-up piece. Reach out at debatedaily.contact@gmail.com.*
+*Want to share a story of a great post-round? We’re collecting them for a follow-up piece. Reach out at debatedaily.app@gmail.com.*
