@@ -32,51 +32,61 @@ summaryLength = 30
   showFooterCredits = true
   highlightColor = "#0080ff"
 
-# Optional: Main menu if you want a header nav bar
-[menu]
+# MAIN MENU BAR [Home // Tools // Blog: TTT // Blog 3NRs // PbT // Contact: Email ]
 
-  [[menu.main]]
-    name = "Contact: Email"
-    url = "mailto:DebateDaily.App@gmail.com"
+[[menu.main]]
+    name = "HOME"
+    url = "/"
     weight = 1
 
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
+[[menu.main]]
+    name = "Contact: Email"
+    url = "mailto:DebateDaily.App@gmail.com"
+    weight = 10
 
-   [[menu.main]]
-    name = "Blog: 3NR Revamp Series"
-    url = "/tags/3NR-Revamps/"
-    weight = 3
-
-  [[menu.main]]
+[[menu.main]]
     name = "Tools"
     url = "/tools/"
-    weight = 4
+    weight = 2
     identifier = "tools"
     hasChildren = true
 
-    [[menu.main]]
+  [[menu.main]]
       parent = "tools"
       name = "Debate Tracker (BETA .87)"
       url = "/tools/debate-tracker"
-      weight = 5
+      weight = 1
 
-    [[menu.main]]
+  [[menu.main]]
       parent = "tools"
       name = "DDQ (Daily Debate Question)"
       url = "/tools/ddq"
-      weight = 6
+      weight = 2
 
-    [[menu.main]]
+  [[menu.main]]
       parent = "tools"
       name = "Round Timer (COMING SOON)"
       url = "/tools/timer"
-      weight = 7
+      weight = 3
 
-    [[menu.main]]
+  [[menu.main]]
       parent = "tools"
       name = "Judge Paradigm Helper (COMING SOON)"
       url = "/tools/judge-helper"
-      weight = 8
+      weight = 4
+
+[[menu.main]]
+    name = "Posts By Topic"
+    url = "/tags/"
+    weight = 5
+
+[[menu.main]]
+    name = "Blog: 3NR Revamps"
+    url = "/tags/3nr-Revamps/"
+    weight = 4
+
+[[menu.main]]
+    name = "Blog: Tuesday's Tool Tip"
+    url = "/tags/Tool-Tips/"
+    weight = 3
+ 
